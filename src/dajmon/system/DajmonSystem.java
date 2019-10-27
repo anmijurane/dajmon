@@ -1,5 +1,4 @@
 package dajmon.system;
-
 public class DajmonSystem {
 
     public static void main(String[] args) {
